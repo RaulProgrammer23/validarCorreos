@@ -34,9 +34,11 @@ Sigue los pasos para instalar y ejecutar la aplicación:
 2- Asegúrese de tener en su equipo los requisitos previos.
 3- Importe el fichero validarCorreos.sql que contiene la BD.
 4- Modifique las siguentes líneas de código:
-
+4.1:
 bd.php -> 'tuUsuario','tuPassword' 
-constantes.php:
+
+4.2:
+constantes.php ->
     define('EMAIL','');
     define('EMAIL_PASSWORD',"");
 aquí tan solo tiene que añadir el email que va a enviar los correos automáticos con el código de validación. Para extraer su EMAIL_PASSWORD
