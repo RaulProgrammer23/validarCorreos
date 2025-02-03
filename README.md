@@ -1,7 +1,10 @@
 # Validación de Correos con PHP y PHPMailer
 
 Esta aplicación permite registrar usuarios, validar sus correos electrónicos mediante un código de verificación enviado por email y gestionar el proceso de autenticación de manera segura. 
+Una pequeña idea para sistemas empresariales, marca personal o app donde solo los usuarios elegidos puedan tener un tipo de acceso u otro
+
 El sistema incluye el uso de variables de entorno para proteger información sensible como las credenciales de la base de datos y el correo electrónico.
+
 
 ## Características
 
