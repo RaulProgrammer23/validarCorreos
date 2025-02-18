@@ -46,3 +46,19 @@ constantes.php ->
     define('EMAIL_PASSWORD',"");
 aquí tan solo tiene que añadir el email que va a enviar los correos automáticos con el código de validación. Para extraer su EMAIL_PASSWORD
 tiene que dirigirse a la configuración de cuenta de google ( buscar "contraseñas de aplicación" ) y le aparecerá un código parecido a este : xxxx xxxx xxxx xxxx
+
+## Prueba en Local
+![image](https://github.com/user-attachments/assets/f1826b62-fee6-4412-b833-220584bc41b6)
+
+![image](https://github.com/user-attachments/assets/39a50ddf-39f7-4189-a950-3d668ccb27e9)
+
+![image](https://github.com/user-attachments/assets/92630647-252e-4c26-96bd-486f10683dba)
+
+![image](https://github.com/user-attachments/assets/301e1965-28ba-4855-8699-2d6bcc3c6958)
+
+
+
+
+
+
+
